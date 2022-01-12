@@ -1,0 +1,5 @@
+{
+    "name": "Data collector CI",
+    "description": "Data collector with Maven CI template",
+    "iconName": "noi-logo"
+}
