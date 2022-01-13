@@ -1,0 +1,5 @@
+{
+    "name": "Java Maven CI",
+    "description": "Java with JDK 8 and Maven CI template",
+    "iconName": "noi-logo"
+}
