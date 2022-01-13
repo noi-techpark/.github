@@ -1,5 +1,13 @@
 {
     "name": "Java Maven CI",
     "description": "Java with JDK 8 and Maven CI template",
-    "iconName": "noi-logo"
+    "iconName": "noi-logo",
+    "categories": [
+        "Java",
+	    "Maven POM"
+    ],
+    "filePatterns": [
+        "pom.xml",
+        "**.java"
+    ]
 }
