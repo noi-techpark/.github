@@ -1,5 +1,13 @@
 {
     "name": "Data collector CI",
     "description": "Data collector with Maven CI template",
-    "iconName": "noi-logo"
+    "iconName": "noi-logo",
+    "categories": [
+        "Java",
+	    "Maven POM"
+    ],
+    "filePatterns": [
+        "pom.xml",
+        "**.java"
+    ]
 }

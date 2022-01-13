@@ -1,13 +1,5 @@
 {
     "name": "Hugo CI",
     "description": "Hugo CI template",
-    "iconName": "noi-logo",
-    "categories": [
-        "Java",
-	    "Maven POM"
-    ],
-    "filePatterns": [
-        "pom.xml",
-        "**.java"
-    ]
+    "iconName": "noi-logo"
 }
