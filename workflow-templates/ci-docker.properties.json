@@ -3,7 +3,7 @@
     "description": "Build and run docker images CI template",
     "iconName": "noi-logo",
     "categories": [
-        "Docker"
+        "Dockerfile"
     ],
     "filePatterns": [
         "infrastructure/docker-compose**"
