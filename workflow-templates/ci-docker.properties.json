@@ -1,0 +1,11 @@
+{
+    "name": "Docker CI",
+    "description": "Build and run docker images CI template",
+    "iconName": "noi-logo",
+    "categories": [
+        "Docker"
+    ],
+    "filePatterns": [
+        "infrastructure/docker-compose**"
+    ]
+}
