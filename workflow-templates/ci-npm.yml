@@ -22,5 +22,7 @@ jobs:
         with:
           node-version: '12'
           cache: 'npm'
-      - run: npm install
-      - run: npm test
+      - name: install
+        run: npm install
+      - name: test
+        run: npm test
