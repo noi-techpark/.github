@@ -26,3 +26,7 @@ jobs:
         run: npm install
       - name: test
         run: npm test
+
+      # used in many webcomps
+      # - name: REUSE Compliance Check
+      #   uses: fsfe/reuse-action@v1
