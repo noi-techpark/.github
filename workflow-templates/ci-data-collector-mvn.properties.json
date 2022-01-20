@@ -1,6 +1,6 @@
 {
-    "name": "Data collector CI",
-    "description": "Data collector with Maven CI template",
+    "name": "CI ODH data collector",
+    "description": "CI for Open Data HUb data collector with Maven template",
     "iconName": "noi-logo",
     "categories": [
         "Java",

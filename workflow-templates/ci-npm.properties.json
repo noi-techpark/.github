@@ -1,6 +1,6 @@
 {
-    "name": "Node npm CI",
-    "description": "Node npm to install and test CI template",
+    "name": "CI with node and npm",
+    "description": "CI node npm to install and test template",
     "iconName": "noi-logo",
     "categories": [
         "JavaScript"

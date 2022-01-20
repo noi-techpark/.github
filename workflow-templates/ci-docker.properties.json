@@ -1,6 +1,6 @@
 {
-    "name": "Docker CI",
-    "description": "Build and run docker images CI template",
+    "name": "CI Docker",
+    "description": "CI to build and run docker images template",
     "iconName": "noi-logo",
     "categories": [
         "Dockerfile"
