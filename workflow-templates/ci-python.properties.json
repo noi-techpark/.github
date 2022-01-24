@@ -1,0 +1,11 @@
+{
+    "name": " CI Python",
+    "description": "CI to test Python scripts and programs",
+    "iconName": "noi-logo",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "**.py"
+    ]
+}
