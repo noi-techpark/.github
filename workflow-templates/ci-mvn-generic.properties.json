@@ -4,7 +4,7 @@
     "iconName": "noi-logo",
     "categories": [
         "Java",
-	    "Maven POM"
+	"Maven POM"
     ],
     "filePatterns": [
         "pom.xml",
