@@ -1,0 +1,13 @@
+{
+    "name": " CI iOS & Android",
+    "description": "CI to test Android and iOS Apps with Ruby bundle",
+    "iconName": "noi-logo",
+    "categories": [
+        "Ruby"
+    ],
+    "filePatterns": [
+        "**Gemfile",
+        "android/",
+        "ios/"
+    ]
+}
