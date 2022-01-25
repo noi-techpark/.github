@@ -6,6 +6,7 @@
         "JavaScript"
     ],
     "filePatterns": [
-        "**.js"
+        "**.js",
+        "package-lock.json"
     ]
 }
