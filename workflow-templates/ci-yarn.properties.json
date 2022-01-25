@@ -1,0 +1,12 @@
+{
+    "name": "CI with node and yarn",
+    "description": "CI node yarn to install and test template",
+    "iconName": "noi-logo",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "**.js",
+	"yarn.lock"
+    ]
+}
