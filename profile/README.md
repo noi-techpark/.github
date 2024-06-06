@@ -6,7 +6,7 @@ SPDX-License-Identifier: CC0-1.0
 
 # Hello!
 ### Welcome to NOI's organization on GitHub where we develop Free Open Source Software.
-![ODH](https://user-images.githubusercontent.com/101118017/196189014-58a1c382-5f2c-43a8-bb53-b46c3de731ba.png)
+![Open Data Hub](https://user-images.githubusercontent.com/101118017/196189014-58a1c382-5f2c-43a8-bb53-b46c3de731ba.png)
 
 ## Who are we?
 Who is [NOI AG/S.p.a.](https://noi.bz.it/en)?<br />
